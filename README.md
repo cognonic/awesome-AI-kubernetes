@@ -6,6 +6,22 @@ Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision,
 
 ---
 
+**Note: The Big Picture**
+
+As part of our overall concepts, we are putting together a "big picture" overview of the OSS spectrum of available projects for a  Kubernetes based end-to-end Machine Learning distributed processing continuum from Ingestion to Analytics to Visualization.
+
+- (this effort) https://github.com/cognonic/awesome-AI-kubernetes covers the distributed machine learning processing elements
+- https://github.com/cognonic/on-premise-kubernetes covers the often neglected on-premise Kubernetes configurations in the range between development laptop and full cloud build-out. This will also include some basic Kubernetes and Docker container bits.
+- https://github.com/cognonic/The-Cognitive-and-ML-List covers the wide variety of specific machine learning type libraries icluding a detailed ONNX focus
+- https://github.com/cognonic/The-React-List covers the mysterious common usage in the Data SCience field of JavaScript for the presentation of the hard earned results of all that distributed processing power
+- https://github.com/cognonic/Augmented-Reality-Hololens covers how that hard earned visualization really deserves to move fully into this millenium as real-time Augmented Reality and Virtual Reality (i.e. Mixed Reality) walk-throughs of your data to fully embrace the potential of our modern tools.
+- https://github.com/cognonic/The-Big-Tech-Players-GitHub-List covers many of the major companies on GitHub which can indicate the "backing" power of certain OSS projects, a concept more of interest to enterprise consumers of OSS.
+
+Comments, any general feedback, and additional content are always welcome and easily acheived by just opening an issue.
+
+---
+
+
 **Introduction**
 
 The entire computing industry has adopted Kubernetes as the way forward to running distibuted computing loads from on-premise servers to large multi-cloud deployments.
